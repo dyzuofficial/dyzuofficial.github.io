@@ -5,8 +5,8 @@ permalink: "/home/"
 ---
 Links:
 
-- [Biosite]: (https://bio.site/dyzu)
+- [Biosite]: https://bio.site/dyzu
 
-- [Blog]: (https://dyzuofficial.github.io/blog)
+- [Blog]: https://dyzuofficial.github.io/blog
 
 - [About]: https://dyzuofficial.github.io/about
